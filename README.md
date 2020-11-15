@@ -1,7 +1,7 @@
 # Welcome to EZdday.js
 Multi timezone support D-day javascript library
 
-Usage and example Sourcecode [on index.html](https://github.com/boxqkrtm/EZdday.js/blob/master/index.html)
+Usage and example Sourcecode [on index.html](https://boxqkrtm.github.io/EZdday.js/)
 
 ## Usage
 ```js
